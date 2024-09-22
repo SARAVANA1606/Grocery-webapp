@@ -5,5 +5,3 @@ Built grocery store management system using HTML, CSS, JavaScript and Bootstrap 
 Helped XYZ grocers automate their order and inventory management processes which saved them 30k dollars in the first year after the launch 
 
 Used Flask as a web server framework to serve HTTP requests coming from the frontend
-
-Used sqlalchemy module to interact with MySQL database from Python backend 
